@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CAEA,UAEE,QACF","file":"main.292f9420.chunk.css","sourcesContent":["* {\n  font-family: monospace;\n}\n\nhtml,\nbody {\n  margin: 0;\n}\n"]}
